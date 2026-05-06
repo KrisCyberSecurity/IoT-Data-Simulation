@@ -1,0 +1,11 @@
+Device ID,Temperature,Humidity,Air Quality,Status,Timestamp
+Device_1,23.36,64,171,Critical,2026-05-06 08:20:04
+Device_2,28.0,43,114,Critical,2026-05-06 08:20:05
+Device_3,32.78,56,117,Critical,2026-05-06 08:20:06
+Device_4,24.39,43,161,Warning,2026-05-06 08:20:07
+Device_5,21.43,76,119,Normal,2026-05-06 08:20:08
+Device_6,21.29,71,126,Normal,2026-05-06 08:20:09
+Device_7,32.33,60,51,Critical,2026-05-06 08:20:10
+Device_8,25.4,44,185,Warning,2026-05-06 08:20:11
+Device_9,23.61,46,144,Critical,2026-05-06 08:20:12
+Device_10,24.64,41,182,Normal,2026-05-06 08:20:13
